@@ -1,0 +1,32 @@
+[
+    {
+        "ID": "1",
+        "NAME": "Game 1",
+        "IMG": "",
+        "DESCRIPTION": "Description of Game 1",
+        "URLS": ["http://example.com/game1"],
+        "STORE PAGE": "http://store.example.com/game1",
+        "VERSION": "1.0",
+        "SIZE": "2 GB",
+        "SYSTEM REQUIREMENTS": {
+            "Minimum": "4 GB RAM, 1.5 GHz CPU",
+            "Maximum": "8 GB RAM, 2.5 GHz CPU"
+        },
+        "SCREENSHOT": null
+    },
+    {
+        "ID": "2",
+        "NAME": "Game 2",
+        "IMG": "",
+        "DESCRIPTION": "Description of Game 2",
+        "URLS": ["http://example.com/game2"],
+        "STORE PAGE": "http://store.example.com/game2",
+        "VERSION": "1.0",
+        "SIZE": "3 GB",
+        "SYSTEM REQUIREMENTS": {
+            "Minimum": "6 GB RAM, 2.0 GHz CPU",
+            "Maximum": "16 GB RAM, 3.0 GHz CPU"
+        },
+        "SCREENSHOT": null
+    }
+]
